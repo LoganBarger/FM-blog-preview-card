@@ -1,0 +1,25 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.main {
+  width: 325px;
+}
+.min-vh-98 {
+  min-height: 98vh;
+}
+h5 {
+  font-weight: 500;
+}
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+.content {
+  background-color: white;
+}
+/* img {
+  border-radius: 10%;
+} */
