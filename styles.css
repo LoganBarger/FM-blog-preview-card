@@ -1,3 +1,15 @@
+.bg-primary {
+  background-color: hsl(47, 88%, 63%) !important;
+}
+.bg-light {
+  background-color: white;
+}
+.btn-primary {
+  background-color: hsl(47, 88%, 63%);
+}
+.text-muted {
+  color: hsl(0, 0%, 42%);
+}
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -6,20 +18,26 @@
   color: hsl(228, 45%, 44%);
 }
 .main {
-  width: 325px;
+  width: 365px;
 }
 .min-vh-98 {
   min-height: 98vh;
 }
-h5 {
-  font-weight: 500;
-}
-body {
-  background-color: hsl(47, 88%, 63%);
-}
 .content {
-  background-color: white;
+  box-shadow: 10px 10px black;
+  height: 500px;
 }
-/* img {
-  border-radius: 10%;
-} */
+.publish-date {
+  font-weight: 500;
+  font-size: 13px;
+}
+h5 {
+  font-weight: 800;
+}
+.image-avatar {
+  width: 30px;
+  height: 30px;
+}
+.profile {
+  font-size: 13px;
+}
