@@ -20,6 +20,11 @@
 .main {
   width: 365px;
 }
+@media (max-width: 576px) {
+  .container-sm {
+    width: 325px;
+  }
+}
 .min-vh-98 {
   min-height: 98vh;
 }
