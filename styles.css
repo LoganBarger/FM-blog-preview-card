@@ -1,10 +1,16 @@
 .bg-primary {
   background-color: hsl(47, 88%, 63%) !important;
 }
+.link:hover {
+  color: hsl(47, 88%, 63%) !important;
+}
 .bg-light {
   background-color: white;
 }
 .btn-primary {
+  background-color: hsl(47, 88%, 63%);
+}
+.btn-primary:hover {
   background-color: hsl(47, 88%, 63%);
 }
 .text-muted {
@@ -45,4 +51,7 @@ h5 {
 }
 .profile {
   font-size: 13px;
+}
+.btn {
+  pointer-events: none;
 }
